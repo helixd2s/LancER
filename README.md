@@ -3,12 +3,12 @@
 Name [RESERVED](https://github.com/hyperearth/JiviX) for another project type! (For Much HUGE!)
 
 
-### Vulkan Ray-Tracing Project Place...
+#### Vulkan Ray-Tracing Project Place...
 
 - [JiviX](https://github.com/hyperearth/JiviX) - (WIP) Ray Tracing Library and Demo
 
 
-### Another Projects
+#### Another Projects
 
 - [MineVKR](https://github.com/hyperearth/MineVKR), spin-off project for add RTX ray tracing for Minecraft (Java Edition)...
 - [RadX](https://github.com/world8th/RadX) - (WIP) Radix Sort for Newest GPU
