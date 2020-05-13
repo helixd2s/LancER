@@ -1,6 +1,6 @@
 # LancER
 
-Name RESERVED for another project type! (For Much HUGE!)
+Name [RESERVED](https://github.com/hyperearth/JiviX) for another project type! (For Much HUGE!)
 
 
 ## Vulkan Ray-Tracing Project Place...
