@@ -19,7 +19,7 @@ Name [RESERVED](https://github.com/hyperearth/JiviX) for another project type! (
 
 I planned to begin development of newer graphics and compute engine, with ray-tracing support. Will based on Render Graph principles, and will support both DirectX 12 Ultimate and Vulkan API 1.2 graphics API. 
 
-Planned: 
+#### Planned: 
 - DirectX 12 Ultimate support, with DXR 1.1 and WDDM v2.9 support
 - Vulkan API 1.2 support, with `VK_KHR_ray_tracing` extension support
 - Render Graphs, even with ray-tracing and accelerated structures
