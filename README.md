@@ -37,6 +37,12 @@ I planned to begin development of newer graphics and compute engine, with ray-tr
 - Windows 10 Update 2104 (planned)
 - Ubuntu 21.04 (planned)
 
+#### Repositories
+
+- [Amethyst-Project](https://github.com/helixd2s/Amethyst-Project), not available publically
+- [Amethyst-Modules](https://github.com/helixd2s/Amethyst-Modules), reserved repository
+- [Amethyst-Compute](https://github.com/helixd2s/Amethyst-Compute), OpenCL-like library
+
 #### Paid?
 
 Yep! I decided that the engine, although for $3, but there must be a flagship... It will be expensive for someone, but any financial support is important to me now...
